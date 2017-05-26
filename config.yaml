@@ -1,0 +1,12 @@
+# do not touch this line
+configVersion: 2
+
+description: Control your reveal.js presentation with gestures
+keywords: Productivity
+name: slider
+displayName: Slider
+
+services:
+  forward:
+    engine: gesture
+    type: fist
